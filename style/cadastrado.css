@@ -1,0 +1,10 @@
+a{
+    text-decoration: none;
+    margin:  10px;
+}
+.sucesso{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+}
